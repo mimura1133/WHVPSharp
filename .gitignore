@@ -3,3 +3,11 @@
 ################################################################################
 
 /whvpclient-master/whvpclient-master
+/.vs/WHVPSharp
+/WHVPSharp/bin/Debug/netcoreapp2.1
+/WHVPSharp/obj
+/WHVPSharp_Test/bin/Debug/netcoreapp2.1
+/WHVPSharp_Test/obj
+/whvpclient-master.zip
+/StrikerX3-whvpclient- Windows Hypervisor Platform client.url
+/WHVPSharp.sln.DotSettings.user
